@@ -1,0 +1,4 @@
+#Mon Aug 07 10:28:34 WIB 2017
+base.0=/home/khilman/Documents/DataKaryawan/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4
+renamed.0=classes.dex
+file.0=/home/khilman/Documents/DataKaryawan/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex

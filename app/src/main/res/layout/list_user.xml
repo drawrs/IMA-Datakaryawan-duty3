@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="80dp"
+    android:clickable="true"
+    android:layout_marginBottom="8dp"
+    android:layout_marginRight="16dp"
+    android:layout_marginLeft="16dp"
+    android:foreground="?attr/selectableItemBackground">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/list_item"
+        android:gravity="center">
+        <ImageView
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:id="@+id/daftar_icon"
+            android:layout_centerVertical="true"
+            android:layout_alignParentLeft="true"
+            android:layout_marginLeft="10dp"
+            android:scaleType="centerCrop"
+            android:src="@mipmap/ic_launcher"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/daftar_judul"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="16dp"
+            android:layout_toRightOf="@+id/daftar_icon"
+            android:text="Daftar Judul"
+            android:textColor="@color/colorPrimary"
+            android:textAppearance="?attr/textAppearanceListItem"
+            android:textSize="16sp"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/daftar_deskripsi"
+            android:layout_below="@+id/daftar_judul"
+            android:layout_marginLeft="16dp"
+            android:layout_toRightOf="@+id/daftar_icon"
+            android:ellipsize="end"
+            android:singleLine="true"
+            android:text="Tap gambar untuk lebih detail"
+            android:textAppearance="?attr/textAppearanceListItem"
+            android:textSize="14sp"/>
+    </RelativeLayout>
+</android.support.v7.widget.CardView>

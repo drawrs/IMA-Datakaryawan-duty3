@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "/home/khilman/Documents/DataKaryawan/app/build/intermediates/res/merged/debug/drawable-v21/avd_show_password.xml",
+        "source": "/root/.android/build-cache/4355916741086da15662b93902253a4738a26384/output/res/drawable-v21/avd_show_password.xml"
+    },
+    {
+        "merged": "/home/khilman/Documents/DataKaryawan/app/build/intermediates/res/merged/debug/drawable-v21/ic_menu_gallery.xml",
+        "source": "/home/khilman/Documents/DataKaryawan/app/src/main/res/drawable-v21/ic_menu_gallery.xml"
+    },
+    {
+        "merged": "/home/khilman/Documents/DataKaryawan/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/root/.android/build-cache/a9b60b6e1eb479c9f89dfc7f5ff3ff94f57c1120/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/home/khilman/Documents/DataKaryawan/app/build/intermediates/res/merged/debug/drawable-v21/ic_menu_share.xml",
+        "source": "/home/khilman/Documents/DataKaryawan/app/src/main/res/drawable-v21/ic_menu_share.xml"
+    },
+    {
+        "merged": "/home/khilman/Documents/DataKaryawan/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/root/.android/build-cache/a9b60b6e1eb479c9f89dfc7f5ff3ff94f57c1120/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/home/khilman/Documents/DataKaryawan/app/build/intermediates/res/merged/debug/drawable-v21/design_bottom_navigation_item_background.xml",
+        "source": "/root/.android/build-cache/4355916741086da15662b93902253a4738a26384/output/res/drawable-v21/design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "/home/khilman/Documents/DataKaryawan/app/build/intermediates/res/merged/debug/drawable-v21/ic_menu_camera.xml",
+        "source": "/home/khilman/Documents/DataKaryawan/app/src/main/res/drawable-v21/ic_menu_camera.xml"
+    },
+    {
+        "merged": "/home/khilman/Documents/DataKaryawan/app/build/intermediates/res/merged/debug/drawable-v21/ic_menu_manage.xml",
+        "source": "/home/khilman/Documents/DataKaryawan/app/src/main/res/drawable-v21/ic_menu_manage.xml"
+    },
+    {
+        "merged": "/home/khilman/Documents/DataKaryawan/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/root/.android/build-cache/a9b60b6e1eb479c9f89dfc7f5ff3ff94f57c1120/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/home/khilman/Documents/DataKaryawan/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/root/.android/build-cache/a9b60b6e1eb479c9f89dfc7f5ff3ff94f57c1120/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/home/khilman/Documents/DataKaryawan/app/build/intermediates/res/merged/debug/drawable-v21/design_password_eye.xml",
+        "source": "/root/.android/build-cache/4355916741086da15662b93902253a4738a26384/output/res/drawable-v21/design_password_eye.xml"
+    },
+    {
+        "merged": "/home/khilman/Documents/DataKaryawan/app/build/intermediates/res/merged/debug/drawable-v21/avd_hide_password.xml",
+        "source": "/root/.android/build-cache/4355916741086da15662b93902253a4738a26384/output/res/drawable-v21/avd_hide_password.xml"
+    },
+    {
+        "merged": "/home/khilman/Documents/DataKaryawan/app/build/intermediates/res/merged/debug/drawable-v21/ic_menu_send.xml",
+        "source": "/home/khilman/Documents/DataKaryawan/app/src/main/res/drawable-v21/ic_menu_send.xml"
+    },
+    {
+        "merged": "/home/khilman/Documents/DataKaryawan/app/build/intermediates/res/merged/debug/drawable-v21/ic_menu_slideshow.xml",
+        "source": "/home/khilman/Documents/DataKaryawan/app/src/main/res/drawable-v21/ic_menu_slideshow.xml"
+    }
+]

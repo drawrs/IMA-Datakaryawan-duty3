@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/khilman/Documents/DataKaryawan/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3efc603b54c8a6a6d71022675c98584600750b11">
+        <dex dex="/home/khilman/Documents/DataKaryawan/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_8f7a68ee15aa5fa20680ce9ee74fb8a057c7be0b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/khilman/Documents/DataKaryawan/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/khilman/Documents/DataKaryawan/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_edb6bc6e29f2df0a6feb7167b657895469a1fbfe/classes.dex" />
+    </item>
+
+</items>

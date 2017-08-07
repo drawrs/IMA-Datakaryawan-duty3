@@ -1,0 +1,7 @@
+#Mon Aug 07 13:44:48 WIB 2017
+base.0=/home/khilman/Documents/DataKaryawan/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_8f7a68ee15aa5fa20680ce9ee74fb8a057c7be0b
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/home/khilman/Documents/DataKaryawan/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_edb6bc6e29f2df0a6feb7167b657895469a1fbfe/classes.dex
+base.1=/home/khilman/Documents/DataKaryawan/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_edb6bc6e29f2df0a6feb7167b657895469a1fbfe
+file.0=/home/khilman/Documents/DataKaryawan/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_8f7a68ee15aa5fa20680ce9ee74fb8a057c7be0b/classes.dex

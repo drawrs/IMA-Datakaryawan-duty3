@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/khilman/Documents/DataKaryawan/app/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/home/khilman/Documents/DataKaryawan/app/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/home/khilman/Documents/DataKaryawan/app/build/intermediates/res/merged/debug/menu/activity_main_drawer.xml",
+        "source": "/home/khilman/Documents/DataKaryawan/app/src/main/res/menu/activity_main_drawer.xml"
+    }
+]
